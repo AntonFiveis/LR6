@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\Anton\Desktop\Study\OP\LR6.3\Client.cpp(36,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\Desktop\Study\OP\LR6.3\Client.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Request.cpp
+  Создание кода...
+  LR6.3.vcxproj -> C:\Users\Anton\Desktop\Study\OP\LR6.3\Debug\LR6.3.exe
